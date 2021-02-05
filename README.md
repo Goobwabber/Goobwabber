@@ -1,9 +1,14 @@
 ### Hey!
 
-I do a lot of random work on whatever I feel like working on at the time
+I'm a full-stack dev and have a large variety of experience. Most of my projects are based around mods for Beat Saber, a popular VR rhythm game.
 
-About me:
-- I make beatsaber mods sometimes
-- Full-stack dev, I code whatever
+### Overview:
+
+- Maintainer of [MultiplayerExtensions](https://github.com/Zingabopp/MultiplayerExtensions), the core multiplayer mod for Beatsaber.
+- I also manage a few more multiplayer mods: 
+  - [MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions), the Oculus Quest version of MultiplayerExtensions
+  - [MultiplayerAvatars](https://github.com/Goobwabber/MultiplayerAvatars), a mod that allows other players to see your custom VR avatars in multiplayer.
+  
+I do a lot of work on smaller private projects behind the scenes as well.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K72KAND)
