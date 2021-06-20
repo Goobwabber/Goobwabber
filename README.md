@@ -4,9 +4,8 @@ I'm a full-stack dev and have a large variety of experience. Most of my projects
 
 ### Overview:
 
-- Maintainer of [MultiplayerExtensions](https://github.com/Zingabopp/MultiplayerExtensions), the core multiplayer mod for Beatsaber.
+- Main contributor for [MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions), the core multiplayer mod for Beatsaber.
 - I also manage a few more multiplayer mods: 
-  - [MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions), the Oculus Quest version of MultiplayerExtensions
   - [MultiplayerAvatars](https://github.com/Goobwabber/MultiplayerAvatars), a mod that allows other players to see your custom VR avatars in multiplayer.
   
 I do a lot of work on smaller private projects behind the scenes as well.
