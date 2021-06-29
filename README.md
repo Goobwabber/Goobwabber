@@ -6,8 +6,9 @@ I'm a full-stack dev and have a large variety of experience. Most of my projects
 
 - Main contributor for [MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions), the core multiplayer mod for Beatsaber.
 - I also manage a few more BeatSaber mods: 
-  - [MultiplayerAvatars](https://github.com/Goobwabber/MultiplayerAvatars), a mod that allows other players to see your custom VR avatars in multiplayer.
   - [BeatSaberOptimizer](https://github.com/Goobwabber/BeatsaberOptimizer), which optimizes some of the base game code to make it more performant.
+  - [CoobPause](https://github.com/Goobwabber/CoobPause), which adds a coob that pauses the game when cut.
+  - [MultiplayerAvatars](https://github.com/Goobwabber/MultiplayerAvatars), a mod that allows other players to see your custom VR avatars in multiplayer.
   
 I do a lot of work on smaller private projects behind the scenes as well.
 
