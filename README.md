@@ -22,6 +22,6 @@ I do a lot of work on smaller private projects behind the scenes as well.
     <img width="250" align="center" src="https://github-readme-stats.vercel.app/api?username=goobwabber&hide=contribs,issues,prs&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=45,f9d083,d56963&icon_color=ffffff&text_color=ffffff&include_all_commits=true&disable_animations=true" />
   </a>
   <a href="https://mpex.goobwabber.com/">
-    <img width="250" align="center" src="https://goobi.moe/badges/api/v3/mpexusercount?scale=1.8&radius=2.5&textXOffset=-75&height=35&textanchor=begin&totalWidth=296.87502&textYOffset=-4&innerSpacing=5&text1=MPEX%20Downloads"
+    <img width="250" align="center" src="https://goobi.moe/badges/api/v3/mpexusercount?scale=1.8&radius=2.5&textXOffset=-75&height=35&textanchor=begin&totalWidth=296.87502&textYOffset=-4&innerSpacing=5&text1=MPEX%20Downloads"/>
   </a>
 </div>
