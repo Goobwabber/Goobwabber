@@ -12,4 +12,4 @@ I'm a full-stack dev and have a large variety of experience. Most of my projects
   
 I do a lot of work on smaller private projects behind the scenes as well.
 
-[![ko-fi](https://goobi.moe/badges/api/v1/donate?text=Donate!&scale=1.5&fontsize=30&radius=8)](https://ko-fi.com/K3K72KAND)
+[![ko-fi](https://goobi.moe/badges/api/v2/donate?text=Donate!&scale=1.5&fontsize=32&radius=8&textXOffset=5&height=12.9666&widthOffset=3.5666)](https://ko-fi.com/K3K72KAND)
