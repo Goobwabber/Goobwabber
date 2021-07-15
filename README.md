@@ -15,8 +15,13 @@ I do a lot of work on smaller private projects behind the scenes as well.
 
 ---
 <div align="center" >
-  <a href="https://ko-fi.com/K3K72KAND">
-    <img width="250" align="center" src="https://goobi.moe/badges/api/v2/donate?text=Donate!&scale=1.8&fontsize=32&radius=2.5&textXOffset=5&height=12.9666&widthOffset=-5.8361" />
+  <a>
+    <a href="https://www.patreon.com/goobwabber">
+      <img height="75.797" align="center" src="https://goobi.moe/badges/api/v7/donate?text=Patreon&scale=0.9&fontsize=18.72&radius=5&textXOffset=5&height=62.96653&widthOffset=-49.1794&textYOffset=2.3&&icon=patreon.png"/>
+    </a>
+    <a href="https://ko-fi.com/K3K72KAND">
+      <img height="75.797" align="center" src="https://goobi.moe/badges/api/v7/donate?text=Ko-fi&scale=0.9&fontsize=18.72&radius=5&textXOffset=5&height=62.96653&widthOffset=-5.35717&textYOffset=2.3&&icon=kofi.png"/>
+    </a>
   </a>
   <a href="https://github.com/goobwabber">
     <img width="250" align="center" src="https://github-readme-stats.vercel.app/api?username=goobwabber&hide=contribs,issues,prs&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=45,f9d083,d56963&icon_color=ffffff&text_color=ffffff&include_all_commits=true&disable_animations=true" />
