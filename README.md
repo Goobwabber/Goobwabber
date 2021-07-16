@@ -17,10 +17,10 @@ I do a lot of work on smaller private projects behind the scenes as well.
 <div align="center" >
   <a>
     <a href="https://www.patreon.com/goobwabber">
-      <img height="75.797" align="center" src="https://goobi.moe/badges/api/v7/donate?text=Patreon&scale=0.9&fontsize=18.72&radius=5&textXOffset=5&height=62.96653&widthOffset=-49.1794&textYOffset=2.3&&icon=patreon.png"/>
+      <img height="75.8" align="center" src="https://goobi.moe/badges/api/v7/donate?text=Patreon&scale=0.9&fontsize=18.72&radius=5&textXOffset=5&height=62.96653&widthOffset=-44.30162&textYOffset=2.3&&icon=patreon.png"/>
     </a>
     <a href="https://ko-fi.com/K3K72KAND">
-      <img height="75.797" align="center" src="https://goobi.moe/badges/api/v7/donate?text=Ko-fi&scale=0.9&fontsize=18.72&radius=5&textXOffset=5&height=62.96653&widthOffset=-5.35717&textYOffset=2.3&&icon=kofi.png"/>
+      <img height="75.8" align="center" src="https://goobi.moe/badges/api/v7/donate?text=Ko-fi&scale=0.9&fontsize=18.72&radius=5&textXOffset=5&height=62.96653&widthOffset=-0.479391828&textYOffset=2.3&&icon=kofi.png"/>
     </a>
   </a>
   <a href="https://github.com/goobwabber">
