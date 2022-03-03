@@ -15,7 +15,7 @@ I'm a full-stack dev and have a large variety of experience. Most of my projects
   - [BeatTogether.Core](https://github.com/pythonology/BeatTogether.Core) (core server logic)
   - [BeatTogether.MasterServer](https://github.com/pythonology/BeatTogether.MasterServer) (master server)
   - [BeatTogether.DedicatedServer](https://github.com/pythonology/BeatTogether.DedicatedServer) (dedicated server)
-  - [BeatTogether.LiteNetLib](https://github.com/goobwabber/BeatTogether.LiteNetLib) (my take on a faster, thread safe [LiteNetLib](https://github.com/RevenantX/LiteNetLib) rewrite
+  - [BeatTogether.LiteNetLib](https://github.com/goobwabber/BeatTogether.LiteNetLib) (my take on a faster, thread safe [LiteNetLib](https://github.com/RevenantX/LiteNetLib) rewrite)
   
 I do a lot of work on smaller private projects behind the scenes as well.
 ---
