@@ -12,10 +12,10 @@ I'm a full-stack dev and have a large variety of experience. Most of my projects
   - [MultiplayerAvatars](https://github.com/Goobwabber/MultiplayerAvatars), a mod that allows other players to see your custom VR avatars in multiplayer.
   
 - Here are some of the BeatTogether repos, in case you were looking for them:
-  - [BeatTogether.Core](https://github.com/pythonology/BeatTogether.Core) 
-  - [BeatTogether.MasterServer](https://github.com/pythonology/BeatTogether.MasterServer) 
-  - [BeatTogether.DedicatedServer](https://github.com/pythonology/BeatTogether.DedicatedServer) 
-  - [BeatTogether.LiteNetLib](https://github.com/goobwabber/BeatTogether.LiteNetLib)
+  - [BeatTogether.Core](https://github.com/pythonology/BeatTogether.Core) (core server logic)
+  - [BeatTogether.MasterServer](https://github.com/pythonology/BeatTogether.MasterServer) (master server)
+  - [BeatTogether.DedicatedServer](https://github.com/pythonology/BeatTogether.DedicatedServer) (dedicated server)
+  - [BeatTogether.LiteNetLib](https://github.com/goobwabber/BeatTogether.LiteNetLib) (my take on a faster, thread safe [LiteNetLib](https://github.com/RevenantX/LiteNetLib) rewrite
   
 I do a lot of work on smaller private projects behind the scenes as well.
 ---
