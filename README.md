@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm a full-stack developer and have a large variety of experience. Most of my projects are based around mods for Beat Saber, a popular VR rhythm game. I have a passion for networking and backend development.
+I am a full-stack developer with a variety of experience. Most of my projects are based around mods for Beat Saber, a popular VR rhythm game. I have a passion for networking and backend development.
 
 ### Overview:
 
