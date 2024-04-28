@@ -4,8 +4,8 @@ I am a full-stack developer with a variety of experience. Most of my projects ar
 
 ### Overview:
 
-- Main contributor for [MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore), [MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions), and [BeatTogether](https://github.com/pythonology/BeatTogether) the core multiplayer mods for Beatsaber.
-- I also manage a few more BeatSaber mods: 
+- Original main contributor for [MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore), [MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions), and [BeatTogether](https://github.com/pythonology/BeatTogether) the core multiplayer mods for Beatsaber. Although as of 2023, I retired.
+- I also used to manage a few more BeatSaber mods: 
   - [MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions), the Quest port of MultiplayerExtensions.
   - [BeatSaberOptimizer](https://github.com/Goobwabber/BeatsaberOptimizer), which optimizes some of the base game code to make it more performant.
   - [PauseCoob](https://github.com/Goobwabber/PauseCoob), which adds a coob that pauses the game when cut.
@@ -16,8 +16,6 @@ I am a full-stack developer with a variety of experience. Most of my projects ar
   - [BeatTogether.MasterServer](https://github.com/pythonology/BeatTogether.MasterServer) (master server)
   - [BeatTogether.DedicatedServer](https://github.com/pythonology/BeatTogether.DedicatedServer) (dedicated server)
   - [BeatTogether.LiteNetLib](https://github.com/goobwabber/BeatTogether.LiteNetLib) (my take on a faster, thread safe [LiteNetLib](https://github.com/RevenantX/LiteNetLib) rewrite)
-  
-I do a lot of work on smaller private projects behind the scenes as well.
 ---
 <div >
   <a href="https://github.com/goobwabber">
